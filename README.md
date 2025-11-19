@@ -1,5 +1,3 @@
-# Python_Pandas_Student_Project
-
 # Python Pandas – Skills Overview
 
 This document highlights the key **Pandas skills** demonstrated in the accompanying Jupyter Notebook. It provides a clean, GitHub-ready summary of the data manipulation techniques used.
